@@ -12,7 +12,7 @@
  <h2> Passo-a-passo para a execução dos testes e geração do relatório </h2>
  
 **1. Abra o terminal e realize o clone do projeto na sua máquina:** <br/>
-     `git clone https://github.com/mlpdleal/apiRestTest.git`
+     `git clone https://github.com/mlpdleal/apiRestTest.git` <br/>
 **2. Navegue dentro do projeto clonado** <br/>
 **3. No repositório que estiver o arquivo pom.xml, executar um dos seguintes comandos:**</br>
      <ul>
