@@ -20,6 +20,6 @@
           <li>`mvn site` (Executa os testes e gera o relatório)</li>
      </ul> 
 **4. Observe que quando os testes são finalizados, a pasta target é gerada**</br>
-**5. Caso tenha executado o comando `mvn site` e queira visualizar o relatório, navegue para a pasta target/site e clique no arquivo para visualizar o relatório.**
+**5. Caso tenha executado o comando `mvn site` e queira visualizar o relatório, navegue para a pasta target/site e clique no arquivo "surefire-report.html" para visualizar o relatório.**
  
 
