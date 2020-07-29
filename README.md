@@ -15,8 +15,10 @@
  
 **2. Abra o terminal e navegue dentro do projeto clonado** <br/>
 **3. No repositório que estiver o arquivo pom.xml, executar um dos seguintes comandos:**</br>
-      * mvn test (Executa somente os testes)
-      * mvn site (Executa os testes e gera o relatório)
+     <ul>
+          <li>mvn test (Executa somente os testes)</li>
+          <li>mvn site (Executa os testes e gera o relatório)</li>
+     </ul> 
 **4. Observe que quando os testes são finalizados, a pasta target é gerada**</br>
 **5. Navegue para a pasta target/site e clique no arquivo para visualizar o relatório.**
  
