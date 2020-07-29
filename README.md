@@ -5,7 +5,7 @@
 </p>
 
 
-<h2> Requisitos mínimos </h2>
+<h2> Pré-requisitos </h2>
   1. Java 8 ou superior (JDK) <br/>
   2. Apache Maven<br/>
   
